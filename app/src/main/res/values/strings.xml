@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="skip">Skip</string>
+    <string name="foodzilla">Foodzilla</string>
+</resources>
